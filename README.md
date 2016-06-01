@@ -1,2 +1,2 @@
-# networking_solution
-Just a test of networking in c++
+# BOOST.ASIO daytime client/server
+Just a test of networking with boost.asio in c++
